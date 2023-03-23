@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import image from './card/image.jpg'
+import image from './image.jpg'
 
 
 function photo({style}) {
